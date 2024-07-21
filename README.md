@@ -1,5 +1,10 @@
 # 💫 Sobre:
-Tenho 20 anos de idade, procurando uma oportunidade para meu primeiro emprego, em empresas localizadas nas cidades de Jacareí e São José dos Campos/SP.
+Estudante de Ciências da Computação com experiência em telemarketing e
+cobrança, buscando oportunidades na área de TI como Suporte Técnico ou
+Programador/Desenvolvedor. Possuo habilidades em CSS, HTML, JavaScript,
+Python e gestão ágil de projetos. Destaco-me pela comunicação eficaz e pela
+capacidade de trabalhar em equipe.
+
 
 
 # 🌐 Redes Sociais:
